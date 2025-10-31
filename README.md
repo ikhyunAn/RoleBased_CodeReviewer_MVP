@@ -112,8 +112,8 @@ Each file contains Markdown-formatted feedback written by its respective agent.
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/<your-username>/multi-agent-code-review.git
-cd multi-agent-code-review
+git clone https://github.com/ikhyunAn/RoleBased_CodeReviewer_MVP.git
+cd RoleBased_CodeReviewer_MVP
 python3 -m venv venv # Optional: Virtual environment to contain installed packages
 pip install -r requirements.txt
 ```
